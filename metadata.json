@@ -1,0 +1,7 @@
+{
+  "name": "City Shine Eye Hospital",
+  "description": "A premium healthcare website for City Shine Eye Hospital, featuring modern UI, responsive design, and comprehensive ophthalmology service showcases.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
